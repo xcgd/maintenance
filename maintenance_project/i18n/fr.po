@@ -43,7 +43,7 @@ msgstr "Créer un projet depuis l'équipement"
 #. module: maintenance_project
 #: model:ir.model.fields,field_description:maintenance_project.field_maintenance_equipment__preventive_default_task_id
 msgid "Default Task"
-msgstr "Tâche pas défaut"
+msgstr "Tâche par défaut"
 
 #. module: maintenance_project
 #: model:ir.model.fields,field_description:maintenance_project.field_project_project__equipment_count
